@@ -58,7 +58,7 @@ If everything was great you will see smth like this:
 Compiling ./contracts/Killer.sol...
 
 
-  Contract: Gorgona
+  Contract: Killer
     ✓ Loadtesting: Create a many investors (700ms)
     ✓ Loadtesting: Check payout for a large number of investors (2716ms)
     ✓ Loadtesting: Check next round on a lot investors (851ms)
